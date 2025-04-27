@@ -1,0 +1,15 @@
+# Ignore Visual Studio project files
+**/*.vcxproj
+**/*.vcxproj.filters
+**/*.vcxproj.user
+**/*.sln
+
+# Ignore build and debug folders
+**/x64
+**/Debug
+**/Release
+**/*.idb
+**/*.pdb
+
+# Ignore Visual Studio workspace settings
+**/.vs
